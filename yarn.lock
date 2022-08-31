@@ -10647,22 +10647,17 @@ moment-timezone-data-webpack-plugin@1.3.0:
     find-cache-dir "^3.0.0"
     make-dir "^3.0.0"
 
-moment-timezone@0.5.29:
-  version "0.5.29"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.29.tgz#83a0dee1e994e7f89e3b4594b859db540e692909"
-  integrity sha512-qWtUhRIk29zviEFAhttY0fDbM/zsu/OlCRoeQG8vxuH6XcTTuji9ILJkOdxjr+vzIv0J39RsO/SPTuMvzm90wA==
+moment-timezone@0.5.35:
+  version "0.5.35"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.35.tgz#6fa2631bdbe8ff04f6b8753f7199516be6dc9839"
+  integrity sha512-cY/pBOEXepQvlgli06ttCTKcIf8cD1nmNwOKQQAdHBqYApQSpAqotBMX0RJZNgMp6i0PlZuf1mFtnlyEkwyvFw==
   dependencies:
     moment ">= 2.9.0"
 
-moment@2.25.3:
+moment@2.25.3, "moment@>= 2.9.0", moment@^2.10.2, moment@^2.10.6, moment@^2.19.2, moment@^2.22.1:
   version "2.25.3"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.25.3.tgz#252ff41319cf41e47761a1a88cab30edfe9808c0"
   integrity sha512-PuYv0PHxZvzc15Sp8ybUCoQ+xpyPWvjOuK72a5ovzp2LI32rJXOiIfyoFoYvG3s6EwwrdkMyWuRiEHSZRLJNdg==
-
-"moment@>= 2.9.0", moment@^2.10.2, moment@^2.10.6, moment@^2.19.2, moment@^2.22.1:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
 
 mongodb@3.5.7:
   version "3.5.7"
